@@ -1,5 +1,3 @@
-# student-exam-performance-analysis
-Data analysis of student exam performance by demographic and preparation factors.
 # Student Exam Performance Analysis
 
 ## Project Overview
@@ -53,14 +51,3 @@ It includes data cleaning, exploratory data analysis (EDA), statistical testing,
 3. Use subject performance trends to predict and support students at risk.
 
 ---
-
-## Project Structure
-```bash
-├── student-performance-analysis/
-│   ├── data/
-│   │   └── StudentsPerformance.csv
-│   ├── notebooks/
-│   │   └── student_exam_analysis.ipynb
-│   ├── README.md
-│   └── visuals/
-│       └── score_distributions.png
